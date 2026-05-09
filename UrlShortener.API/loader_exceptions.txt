@@ -1,0 +1,266 @@
+ReflectionTypeLoadException during MapControllers():
+Message: Unable to load one or more of the requested types.
+Could not load type 'Microsoft.OpenApi.Any.IOpenApiAny' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiDiscriminator' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiExternalDocs' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiReference' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiSchema' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiTag' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiXml' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiDocument' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiPathItem' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiRequestBody' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiRequestBody' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiDocument' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiPaths' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiOperation' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OperationType' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiParameter' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiRequestBody' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiResponse' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiResponses' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiSchema' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+Could not load type 'Microsoft.OpenApi.Models.OpenApiDocument' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+LoaderExceptions:
+
+---- LoaderException [0] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Any.IOpenApiAny' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [1] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiDiscriminator' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [2] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiExternalDocs' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [3] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiReference' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [4] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiSchema' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [5] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiTag' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [6] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiXml' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [7] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiDocument' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [8] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiPathItem' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [9] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiRequestBody' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [10] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiRequestBody' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [11] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiDocument' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [12] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiPaths' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [13] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiOperation' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [14] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OperationType' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [15] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiParameter' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [16] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiRequestBody' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [17] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiResponse' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [18] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiResponses' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [19] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiSchema' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+---- LoaderException [20] ----
+Exception Type: System.TypeLoadException
+Message: Could not load type 'Microsoft.OpenApi.Models.OpenApiDocument' from assembly 'Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042'.
+StackTrace:
+<no stacktrace>
+
+Loaded assemblies in AppDomain:
+Microsoft.AspNetCore, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.dll
+Microsoft.AspNetCore.Authentication.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Authentication.Abstractions.dll
+Microsoft.AspNetCore.Authentication.Core, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Authentication.Core.dll
+Microsoft.AspNetCore.Authorization, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Authorization.dll
+Microsoft.AspNetCore.Authorization.Policy, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Authorization.Policy.dll
+Microsoft.AspNetCore.Connections.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Connections.Abstractions.dll
+Microsoft.AspNetCore.Cors, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Cors.dll
+Microsoft.AspNetCore.HostFiltering, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.HostFiltering.dll
+Microsoft.AspNetCore.Hosting, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Hosting.dll
+Microsoft.AspNetCore.Hosting.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Hosting.Abstractions.dll
+Microsoft.AspNetCore.Hosting.Server.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+Microsoft.AspNetCore.Http, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Http.dll
+Microsoft.AspNetCore.Http.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Http.Abstractions.dll
+Microsoft.AspNetCore.Http.Extensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Http.Extensions.dll
+Microsoft.AspNetCore.Http.Features, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Http.Features.dll
+Microsoft.AspNetCore.HttpOverrides, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.HttpOverrides.dll
+Microsoft.AspNetCore.HttpsPolicy, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.HttpsPolicy.dll
+Microsoft.AspNetCore.Mvc, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Mvc.dll
+Microsoft.AspNetCore.Mvc.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Mvc.Abstractions.dll
+Microsoft.AspNetCore.Mvc.ApiExplorer, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+Microsoft.AspNetCore.Mvc.Core, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Mvc.Core.dll
+Microsoft.AspNetCore.Mvc.Cors, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Mvc.Cors.dll
+Microsoft.AspNetCore.Mvc.DataAnnotations, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+Microsoft.AspNetCore.Mvc.Razor, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Mvc.Razor.dll
+Microsoft.AspNetCore.OpenApi, Version=9.0.12.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> D:\SystemDesign\UrlShortener\UrlShortener.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+Microsoft.AspNetCore.Routing, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Routing.dll
+Microsoft.AspNetCore.Routing.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Routing.Abstractions.dll
+Microsoft.AspNetCore.Server.IIS, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Server.IIS.dll
+Microsoft.AspNetCore.Server.IISIntegration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Server.IISIntegration.dll
+Microsoft.AspNetCore.Server.Kestrel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Server.Kestrel.dll
+Microsoft.AspNetCore.Server.Kestrel.Core, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+Microsoft.AspNetCore.Server.Kestrel.Transport.Quic, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+Microsoft.AspNetCore.Watch.BrowserRefresh, Version=9.0.310.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\SDK\9.0.310\DotnetTools\dotnet-watch\9.0.310-servicing.26064.11\tools\net9.0\any\middleware\Microsoft.AspNetCore.Watch.BrowserRefresh.dll
+Microsoft.Extensions.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Configuration.dll
+Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Configuration.Abstractions.dll
+Microsoft.Extensions.Configuration.Binder, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Configuration.Binder.dll
+Microsoft.Extensions.Configuration.EnvironmentVariables, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+Microsoft.Extensions.Configuration.FileExtensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Configuration.FileExtensions.dll
+Microsoft.Extensions.Configuration.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Configuration.Json.dll
+Microsoft.Extensions.Configuration.UserSecrets, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Configuration.UserSecrets.dll
+Microsoft.Extensions.DependencyInjection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.DependencyInjection.dll
+Microsoft.Extensions.DependencyInjection.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Microsoft.Extensions.Diagnostics, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Diagnostics.dll
+Microsoft.Extensions.Diagnostics.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Diagnostics.Abstractions.dll
+Microsoft.Extensions.DotNetDeltaApplier, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\hotreload\Microsoft.Extensions.DotNetDeltaApplier.dll
+Microsoft.Extensions.Features, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Features.dll
+Microsoft.Extensions.FileProviders.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.FileProviders.Abstractions.dll
+Microsoft.Extensions.FileProviders.Physical, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.FileProviders.Physical.dll
+Microsoft.Extensions.Hosting, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Hosting.dll
+Microsoft.Extensions.Hosting.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Hosting.Abstractions.dll
+Microsoft.Extensions.Localization.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Localization.Abstractions.dll
+Microsoft.Extensions.Logging, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Logging.dll
+Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Logging.Abstractions.dll
+Microsoft.Extensions.Logging.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Logging.Configuration.dll
+Microsoft.Extensions.Logging.Console, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Logging.Console.dll
+Microsoft.Extensions.Logging.Debug, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Logging.Debug.dll
+Microsoft.Extensions.Logging.EventLog, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Logging.EventLog.dll
+Microsoft.Extensions.Logging.EventSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Logging.EventSource.dll
+Microsoft.Extensions.ObjectPool, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.ObjectPool.dll
+Microsoft.Extensions.Options, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Options.dll
+Microsoft.Extensions.Options.ConfigurationExtensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Extensions.Primitives.dll
+Microsoft.Net.Http.Headers, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\Microsoft.Net.Http.Headers.dll
+Microsoft.OpenApi, Version=2.4.1.0, Culture=neutral, PublicKeyToken=3f5743946376f042 -> D:\SystemDesign\UrlShortener\UrlShortener.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+Microsoft.WebTools.ApiEndpointDiscovery, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> c:\program files\microsoft visual studio\2022\community\common7\ide\extensions\microsoft\web tools\projectsystem\net7.0\Microsoft.WebTools.ApiEndpointDiscovery.dll
+Microsoft.WebTools.BrowserLink.Net, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web Tools\Browser Link\Microsoft.WebTools.BrowserLink.Net.dll
+Microsoft.Win32.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\Microsoft.Win32.Primitives.dll
+Microsoft.Win32.Registry, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\Microsoft.Win32.Registry.dll
+Swashbuckle.AspNetCore.SwaggerGen, Version=10.1.7.0, Culture=neutral, PublicKeyToken=d84d99fb0135530a -> D:\SystemDesign\UrlShortener\UrlShortener.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+System.Collections, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Collections.dll
+System.Collections.Concurrent, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Collections.Concurrent.dll
+System.Collections.Specialized, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Collections.Specialized.dll
+System.ComponentModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.ComponentModel.dll
+System.ComponentModel.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.ComponentModel.Primitives.dll
+System.ComponentModel.TypeConverter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.ComponentModel.TypeConverter.dll
+System.Console, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Console.dll
+System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Diagnostics.DiagnosticSource.dll
+System.Diagnostics.EventLog, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 -> C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.12\System.Diagnostics.EventLog.dll
+System.Diagnostics.Tracing, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Diagnostics.Tracing.dll
+System.IO.FileSystem.Watcher, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.IO.FileSystem.Watcher.dll
+System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.IO.Pipelines.dll
+System.IO.Pipes, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.IO.Pipes.dll
+System.Linq, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Linq.dll
+System.Linq.Expressions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Linq.Expressions.dll
+System.Memory, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Memory.dll
+System.Net.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Net.Primitives.dll
+System.Net.Quic, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Net.Quic.dll
+System.Net.Sockets, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Net.Sockets.dll
+System.Numerics.Vectors, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Numerics.Vectors.dll
+System.ObjectModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.ObjectModel.dll
+System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Private.CoreLib.dll
+System.Private.Uri, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Private.Uri.dll
+System.Reflection.Emit.ILGeneration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Reflection.Emit.ILGeneration.dll
+System.Reflection.Emit.Lightweight, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Reflection.Emit.Lightweight.dll
+System.Reflection.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Reflection.Primitives.dll
+System.Runtime, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Runtime.dll
+System.Runtime.InteropServices, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Runtime.InteropServices.dll
+System.Runtime.Intrinsics, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Runtime.Intrinsics.dll
+System.Runtime.Loader, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Runtime.Loader.dll
+System.Runtime.Numerics, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Runtime.Numerics.dll
+System.Security.AccessControl, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Security.AccessControl.dll
+System.Security.Claims, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Security.Claims.dll
+System.Security.Principal.Windows, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Security.Principal.Windows.dll
+System.Text.Encoding.Extensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Text.Encoding.Extensions.dll
+System.Text.Encodings.Web, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Text.Encodings.Web.dll
+System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Text.Json.dll
+System.Threading, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Threading.dll
+System.Threading.Overlapped, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Threading.Overlapped.dll
+System.Threading.Thread, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Threading.Thread.dll
+System.Threading.ThreadPool, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a -> C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.12\System.Threading.ThreadPool.dll
+UrlShortener.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null -> D:\SystemDesign\UrlShortener\UrlShortener.API\bin\Debug\net9.0\UrlShortener.API.dll
+UrlShortener.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null -> D:\SystemDesign\UrlShortener\UrlShortener.API\bin\Debug\net9.0\UrlShortener.Core.dll
