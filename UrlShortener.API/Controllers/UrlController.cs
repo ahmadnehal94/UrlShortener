@@ -13,7 +13,7 @@ namespace UrlShortener.API.Controllers
 
         public UrlController(IUrlRepository repo) => _repo = repo;
 
-        // POST /api/shorten
+        // POST /api/shorten.
         [HttpPost("shorten")]
         public async Task<IActionResult> Shorten([FromBody] ShortenRequest request)
         {
