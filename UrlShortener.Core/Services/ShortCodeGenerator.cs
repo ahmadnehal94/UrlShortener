@@ -20,7 +20,7 @@ namespace UrlShortener.Core.Services
                 id /= 62;
             }
             result.Reverse();
-            // Pad to always return 6 chars.
+            // Pad to always return 6 chars
             return string.Concat(result).PadLeft(6, 'a');
         }
     }
