@@ -38,10 +38,14 @@ public class UrlRepository : IUrlRepository
 
     public async Task<ShortUrl> CreateAsync(ShortUrl shortUrl)
     {
+        shortUrl.ShortCode= Guid.NewGuid().ToString("N").Substring(0, 8); // Temporary code to ensure uniqueness
         _db.ShortUrls.Add(shortUrl);
         await _db.SaveChangesAsync();
 
-        shortUrl.ShortCode = ShortCodeGenerator.Generate(shortUrl.Id);
+        // Use custom alias if provided, otherwise generate from Id
+        if (string.IsNullOrEmpty(shortUrl.ShortCode))
+            shortUrl.ShortCode = ShortCodeGenerator.Generate(shortUrl.Id);
+       // shortUrl.ShortCode = ShortCodeGenerator.Generate(shortUrl.Id);
         await _db.SaveChangesAsync();
 
         // Cache immediately after creation
@@ -56,5 +60,9 @@ public class UrlRepository : IUrlRepository
             .Where(u => u.ShortCode == shortCode)
             .ExecuteUpdateAsync(s =>
                 s.SetProperty(u => u.ClickCount, u => u.ClickCount + 1));
+    }
+    public async Task<bool> ShortCodeExistsAsync(string shortCode)
+    {
+        return await _db.ShortUrls.AnyAsync(u => u.ShortCode == shortCode);
     }
 }
