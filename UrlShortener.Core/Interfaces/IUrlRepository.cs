@@ -12,5 +12,6 @@ namespace UrlShortener.Core.Interfaces
         Task<ShortUrl?> GetByShortCodeAsync(string shortCode);
         Task<ShortUrl> CreateAsync(ShortUrl shortUrl);
         Task IncrementClickCountAsync(string shortCode);
+        Task<bool> ShortCodeExistsAsync(string shortCode);
     }
 }
